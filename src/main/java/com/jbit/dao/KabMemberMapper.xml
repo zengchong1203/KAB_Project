@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jbit.dao.KabMemberDao">
+  <resultMap id="BaseResultMap" type="com.jbit.entity.KabMember">
+    <id column="mid" jdbcType="INTEGER" property="mid" />
+    <result column="usercode" jdbcType="VARCHAR" property="usercode" />
+    <result column="password" jdbcType="VARCHAR" property="password" />
+    <result column="username" jdbcType="VARCHAR" property="username" />
+    <result column="atschool" jdbcType="VARCHAR" property="atschool" />
+    <result column="postno" jdbcType="VARCHAR" property="postno" />
+    <result column="address" jdbcType="VARCHAR" property="address" />
+    <result column="tel" jdbcType="VARCHAR" property="tel" />
+    <result column="email" jdbcType="VARCHAR" property="email" />
+    <result column="gender" jdbcType="TINYINT" property="gender" />
+    <result column="age" jdbcType="TINYINT" property="age" />
+    <result column="identify" jdbcType="VARCHAR" property="identify" />
+    <result column="degree" jdbcType="INTEGER" property="degree" />
+    <result column="specialty" jdbcType="VARCHAR" property="specialty" />
+    <result column="business" jdbcType="VARCHAR" property="business" />
+    <result column="teachsubject" jdbcType="VARCHAR" property="teachsubject" />
+    <result column="teachtime" jdbcType="INTEGER" property="teachtime" />
+    <result column="broth" jdbcType="INTEGER" property="broth" />
+    <result column="branch" jdbcType="VARCHAR" property="branch" />
+    <result column="mobilephone" jdbcType="VARCHAR" property="mobilephone" />
+    <result column="fax" jdbcType="VARCHAR" property="fax" />
+    <result column="selectclass" jdbcType="VARCHAR" property="selectclass" />
+    <result column="pwdq" jdbcType="VARCHAR" property="pwdq" />
+    <result column="pwda" jdbcType="VARCHAR" property="pwda" />
+    <result column="checked" jdbcType="TINYINT" property="checked" />
+    <result column="leveltype" jdbcType="INTEGER" property="leveltype" />
+    <result column="level" jdbcType="INTEGER" property="level" />
+    <result column="createtime" jdbcType="INTEGER" property="createtime" />
+    <result column="checktime" jdbcType="INTEGER" property="checktime" />
+  </resultMap>
+  <resultMap extends="BaseResultMap" id="ResultMapWithBLOBs" type="com.jbit.entity.KabMember">
+    <result column="managed" jdbcType="LONGVARCHAR" property="managed" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    mid, usercode, password, username, atschool, postno, address, tel, email, gender, 
+    age, identify, degree, specialty, business, teachsubject, teachtime, broth, branch, 
+    mobilephone, fax, selectclass, pwdq, pwda, checked, leveltype, level, createtime, 
+    checktime
+  </sql>
+  <sql id="Blob_Column_List">
+    managed
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="ResultMapWithBLOBs">
+    select 
+    <include refid="Base_Column_List" />
+    ,
+    <include refid="Blob_Column_List" />
+    from kab_member
+    where mid = #{mid,jdbcType=INTEGER}
+  </select>
+</mapper>
