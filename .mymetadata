@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="kabwebPro"
+  name="KAB_Project"
   id="myeclipse.1527053656288"
   context-root="/kabwebPro"
   j2ee-spec="1.7"
-  archive="kabwebPro.war">
+  archive="KAB_Project.war">
   <attributes>
     <attribute name="webrootdir" value="src/main/webapp" />
   </attributes>
