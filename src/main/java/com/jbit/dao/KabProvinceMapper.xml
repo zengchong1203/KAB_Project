@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.jbit.dao.KabProvinceDao">
+  <resultMap id="BaseResultMap" type="com.jbit.entity.KabProvince">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="provincename" jdbcType="VARCHAR" property="provincename" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, provincename
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from kab_province
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+</mapper>
