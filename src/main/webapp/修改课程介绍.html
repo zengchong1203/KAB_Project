@@ -1,0 +1,396 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>修改课程介绍</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/修改课程介绍/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototype/axQuery.js"></script>
+    <script src="resources/scripts/prototype/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/prototype/annotation.js"></script>
+    <script src="resources/scripts/prototype/axQuery.std.js"></script>
+    <script src="resources/scripts/prototype/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/prototype/events.js"></script>
+    <script src="resources/scripts/prototype/action.js"></script>
+    <script src="resources/scripts/prototype/expr.js"></script>
+    <script src="resources/scripts/prototype/geometry.js"></script>
+    <script src="resources/scripts/prototype/flyout.js"></script>
+    <script src="resources/scripts/prototype/ie.js"></script>
+    <script src="resources/scripts/prototype/model.js"></script>
+    <script src="resources/scripts/prototype/repeater.js"></script>
+    <script src="resources/scripts/prototype/sto.js"></script>
+    <script src="resources/scripts/prototype/utils.temp.js"></script>
+    <script src="resources/scripts/prototype/variables.js"></script>
+    <script src="resources/scripts/prototype/drag.js"></script>
+    <script src="resources/scripts/prototype/move.js"></script>
+    <script src="resources/scripts/prototype/visibility.js"></script>
+    <script src="resources/scripts/prototype/style.js"></script>
+    <script src="resources/scripts/prototype/adaptive.js"></script>
+    <script src="resources/scripts/prototype/tree.js"></script>
+    <script src="resources/scripts/prototype/init.temp.js"></script>
+    <script src="files/修改课程介绍/data.js"></script>
+    <script src="resources/scripts/prototype/legacy.js"></script>
+    <script src="resources/scripts/prototype/viewer.js"></script>
+  </head>
+  <body>
+
+    <!-- Unnamed (图片) -->
+    <div id="u0" class="ax_图片">
+      <img id="u0_img" class="img " src="images/修改密码_1/u0.jpg"/>
+      <!-- Unnamed () -->
+      <div id="u1" class="text"></div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u2" class="ax_文本">
+      <img id="u2_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u3" class="text"></div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u4" class="ax_文本">
+      <img id="u4_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u5" class="text">
+        <p><span>你好，</span><span>系统</span><span>管理员&nbsp; admin</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u6" class="ax_文本">
+      <img id="u6_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u7" class="text">
+        <p><span>【安全退出】</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u8" class="ax_文本">
+      <img id="u8_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u9" class="text">
+        <p><span>【</span><span>修改密码</span><span>】</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u10" class="ax_文本">
+      <img id="u10_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u11" class="text">
+        <p><span>【</span><span>网站首页</span><span>】</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u12" class="ax_文本">
+      <img id="u12_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u13" class="text">
+        <p><span>标题：</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (水平线) -->
+    <div id="u14" class="ax_水平线">
+      <img id="u14_start" class="img " src="resources/images/transparent.gif" alt="u14_start"/>
+      <img id="u14_end" class="img " src="resources/images/transparent.gif" alt="u14_end"/>
+      <img id="u14_line" class="img " src="images/修改密码_1/u24_line.png" alt="u14_line"/>
+    </div>
+
+    <!-- Unnamed (文本框(单行)) -->
+    <div id="u15" class="ax_文本框_单行_">
+      <input id="u15_input" type="text" value="大学生创业的必然性"/>
+    </div>
+
+    <!-- Unnamed (文本框(多行)) -->
+    <div id="u16" class="ax_文本框_多行_">
+      <textarea id="u16_input"> 最近，大学生创业备受社会各界关注，尤其是今年中共十八大报告中明确提出，推动实现更高质量的就业，引导劳动者转变就业观念，鼓励多渠道、多形式就业，促进创业带动就业，加强职业技能的培训，提升劳动者就业创业能力，增强就业稳定性等。KAB全国推广办公室总干事张坤说，这给我们提出了下一步明确的工作目标和发展方向，作为国内高校中率先系统性推广创业教育的项目，KAB是目前国内覆盖高校最广、师资最多的创业教育项目，引导、扶持大学生就业创业义不容辞。 
+ 
+课程介绍：
+课程讲师：李素 
+讲师介绍：
+北京大学经济型讲师</textarea>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u17" class="ax_文本">
+      <img id="u17_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u18" class="text">
+        <p><span>内容：</span></p>
+      </div>
+    </div>
+
+    <!-- 1 (单选框) -->
+    <div id="u19" class="ax_单选框">
+      <label for="u19_input">
+        <!-- Unnamed () -->
+        <div id="u20" class="text">
+          <p><span>是</span></p>
+        </div>
+      </label>
+      <input id="u19_input" type="radio" value="radio" data-label="1" name="u19" checked/>
+    </div>
+
+    <!-- 2 (单选框) -->
+    <div id="u21" class="ax_单选框">
+      <label for="u21_input">
+        <!-- Unnamed () -->
+        <div id="u22" class="text">
+          <p><span>否</span></p>
+        </div>
+      </label>
+      <input id="u21_input" type="radio" value="radio" data-label="2" name="u21"/>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u23" class="ax_文本">
+      <img id="u23_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u24" class="text">
+        <p><span>是否推荐</span><span>：</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (图片) -->
+    <div id="u25" class="ax_图片">
+      <img id="u25_img" class="img " src="images/添加新闻/u41.png"/>
+      <!-- Unnamed () -->
+      <div id="u26" class="text"></div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u27" class="ax_文本">
+      <img id="u27_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u28" class="text">
+        <p><span>作者</span><span>：</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (文本框(单行)) -->
+    <div id="u29" class="ax_文本框_单行_">
+      <input id="u29_input" type="text" value="admin"/>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u30" class="ax_形状">
+      <img id="u30_img" class="img " src="images/修改个人资料/u102.png"/>
+      <!-- Unnamed () -->
+      <div id="u31" class="text">
+        <p><span>保 存</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u32" class="ax_形状">
+      <img id="u32_img" class="img " src="images/修改个人资料/u102.png"/>
+      <!-- Unnamed () -->
+      <div id="u33" class="text">
+        <p><span>取消</span></p>
+      </div>
+    </div>
+
+    <!-- alert (动态面板) -->
+    <div id="u34" class="ax_动态面板" data-label="alert">
+      <div id="u34_state0" class="panel_state" data-label="State1">
+
+        <!-- Unnamed (形状) -->
+        <div id="u35" class="ax_形状">
+          <img id="u35_img" class="img " src="images/修改密码_1/u44.png"/>
+          <!-- Unnamed () -->
+          <div id="u36" class="text"></div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u37" class="ax_文本">
+          <img id="u37_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u38" class="text">
+            <p><span>提示信息</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u39" class="ax_水平线">
+          <img id="u39_start" class="img " src="resources/images/transparent.gif" alt="u39_start"/>
+          <img id="u39_end" class="img " src="resources/images/transparent.gif" alt="u39_end"/>
+          <img id="u39_line" class="img " src="images/修改密码_1/u48_line.png" alt="u39_line"/>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u40" class="ax_形状">
+          <img id="u40_img" class="img " src="images/修改密码_1/u49.png"/>
+          <!-- Unnamed () -->
+          <div id="u41" class="text">
+            <p><span>确定</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u42" class="ax_图片">
+          <img id="u42_img" class="img " src="images/修改密码_1/u51.png"/>
+          <!-- Unnamed () -->
+          <div id="u43" class="text"></div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u44" class="ax_文本">
+          <img id="u44_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u45" class="text">
+            <p><span>修改</span><span>成功</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (图片) -->
+        <div id="u46" class="ax_图片">
+          <img id="u46_img" class="img " src="images/修改密码_1/u55.png"/>
+          <!-- Unnamed () -->
+          <div id="u47" class="text"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u48" class="ax_文本">
+      <img id="u48_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u49" class="text">
+        <p><span>·</span><span>宣传</span><span>管理 </span><span>&nbsp; </span><span>》</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u50" class="ax_文本">
+      <img id="u50_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u51" class="text">
+        <p><span>KAB课程介绍</span></p>
+      </div>
+    </div>
+
+    <!-- 导航 (动态面板) -->
+    <div id="u52" class="ax_动态面板" data-label="导航">
+      <div id="u52_state0" class="panel_state" data-label="State1">
+
+        <!-- Unnamed (形状) -->
+        <div id="u53" class="ax_文本">
+          <img id="u53_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u54" class="text">
+            <p><span>新闻管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u55" class="ax_文本">
+          <img id="u55_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u56" class="text">
+            <p><span>公告管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u57" class="ax_文本">
+          <img id="u57_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u58" class="text">
+            <p><span>网上开班管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u59" class="ax_文本">
+          <img id="u59_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u60" class="text">
+            <p><span>用户管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u61" class="ax_文本">
+          <img id="u61_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u62" class="text">
+            <p><span>系统参数配置</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u63" class="ax_水平线">
+          <img id="u63_start" class="img " src="resources/images/transparent.gif" alt="u63_start"/>
+          <img id="u63_end" class="img " src="resources/images/transparent.gif" alt="u63_end"/>
+          <img id="u63_line" class="img " src="images/修改密码_1/u21_line.png" alt="u63_line"/>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u64" class="ax_形状">
+          <img id="u64_img" class="img " src="images/新闻管理/u12.png"/>
+          <!-- Unnamed () -->
+          <div id="u65" class="text">
+            <p><span>宣传管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u66" class="ax_文本">
+          <img id="u66_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u67" class="text">
+            <p><span>KAB概况管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u68" class="ax_文本">
+          <img id="u68_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u69" class="text">
+            <p><span>|&nbsp; &nbsp; &nbsp;&nbsp; </span><span>创业资讯管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u70" class="ax_文本">
+          <img id="u70_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u71" class="text">
+            <p><span>|&nbsp; &nbsp; &nbsp;&nbsp; </span><span>KAB课程介绍</span><span>管理</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u72" class="ax_文本">
+          <img id="u72_img" class="img " src="resources/images/transparent.gif"/>
+          <!-- Unnamed () -->
+          <div id="u73" class="text">
+            <p><span>|&nbsp; &nbsp; &nbsp;&nbsp; </span><span>单页管理</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u74" class="ax_文本">
+      <img id="u74_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u75" class="text">
+        <p><span>》 </span><span>修改</span><span>KAB</span><span>课程介绍</span></p>
+      </div>
+    </div>
+  </body>
+</html>

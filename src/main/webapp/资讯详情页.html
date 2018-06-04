@@ -1,0 +1,368 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>资讯详情页</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/资讯详情页/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/prototype/axQuery.js"></script>
+    <script src="resources/scripts/prototype/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/prototype/annotation.js"></script>
+    <script src="resources/scripts/prototype/axQuery.std.js"></script>
+    <script src="resources/scripts/prototype/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/prototype/events.js"></script>
+    <script src="resources/scripts/prototype/action.js"></script>
+    <script src="resources/scripts/prototype/expr.js"></script>
+    <script src="resources/scripts/prototype/geometry.js"></script>
+    <script src="resources/scripts/prototype/flyout.js"></script>
+    <script src="resources/scripts/prototype/ie.js"></script>
+    <script src="resources/scripts/prototype/model.js"></script>
+    <script src="resources/scripts/prototype/repeater.js"></script>
+    <script src="resources/scripts/prototype/sto.js"></script>
+    <script src="resources/scripts/prototype/utils.temp.js"></script>
+    <script src="resources/scripts/prototype/variables.js"></script>
+    <script src="resources/scripts/prototype/drag.js"></script>
+    <script src="resources/scripts/prototype/move.js"></script>
+    <script src="resources/scripts/prototype/visibility.js"></script>
+    <script src="resources/scripts/prototype/style.js"></script>
+    <script src="resources/scripts/prototype/adaptive.js"></script>
+    <script src="resources/scripts/prototype/tree.js"></script>
+    <script src="resources/scripts/prototype/init.temp.js"></script>
+    <script src="files/资讯详情页/data.js"></script>
+    <script src="resources/scripts/prototype/legacy.js"></script>
+    <script src="resources/scripts/prototype/viewer.js"></script>
+  </head>
+  <body>
+
+    <!-- Unnamed (形状) -->
+    <div id="u0" class="ax_文本">
+      <img id="u0_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u1" class="text">
+        <p><span>欢迎登陆 KAB创业教育网&nbsp; </span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u2" class="ax_文本">
+      <img id="u2_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u3" class="text">
+        <p><span>首</span><span>页&nbsp;&nbsp; |</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u4" class="ax_文本">
+      <img id="u4_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u5" class="text">
+        <p><span>加</span><span>入收藏</span><span>&nbsp; |</span><span>&nbsp;</span><span>&nbsp;&nbsp; </span><span>&nbsp; </span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u6" class="ax_文本">
+      <img id="u6_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u7" class="text">
+        <p><span>设为首页</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (水平线) -->
+    <div id="u8" class="ax_水平线">
+      <img id="u8_start" class="img " src="resources/images/transparent.gif" alt="u8_start"/>
+      <img id="u8_end" class="img " src="resources/images/transparent.gif" alt="u8_end"/>
+      <img id="u8_line" class="img " src="images/首页/u10_line.png" alt="u8_line"/>
+    </div>
+
+    <!-- Unnamed (图片) -->
+    <div id="u9" class="ax_图片">
+      <img id="u9_img" class="img " src="images/首页/u11.jpg"/>
+      <!-- Unnamed () -->
+      <div id="u10" class="text"></div>
+    </div>
+
+    <!-- Unnamed (水平线) -->
+    <div id="u11" class="ax_水平线">
+      <img id="u11_start" class="img " src="resources/images/transparent.gif" alt="u11_start"/>
+      <img id="u11_end" class="img " src="resources/images/transparent.gif" alt="u11_end"/>
+      <img id="u11_line" class="img " src="images/kab概况/u11_line.png" alt="u11_line"/>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u12" class="ax_文本">
+      <img id="u12_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u13" class="text">
+        <p><span style="color:#5DAB09;">您好，candy&nbsp;&nbsp; 会员级别：预备讲师</span><span style="color:#5E5E5E;">&nbsp;</span><span style="color:#5E5E5E;">&nbsp;</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u14" class="ax_文本">
+      <img id="u14_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u15" class="text">
+        <p><span>[我的班级]</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u16" class="ax_文本">
+      <img id="u16_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u17" class="text">
+        <p><span>[</span><span>注销</span><span>]</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u18" class="ax_文本">
+      <img id="u18_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u19" class="text"></div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u20" class="ax_文本">
+      <img id="u20_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u21" class="text">
+        <p><span>首页</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (图片) -->
+    <div id="u22" class="ax_图片">
+      <img id="u22_img" class="img " src="images/kab概况/u22.png"/>
+      <!-- Unnamed () -->
+      <div id="u23" class="text"></div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u24" class="ax_文本">
+      <img id="u24_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u25" class="text">
+        <p><span>&gt;&gt;</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u26" class="ax_文本">
+      <img id="u26_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u27" class="text">
+        <p><span>创业资讯</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (水平线) -->
+    <div id="u28" class="ax_水平线">
+      <img id="u28_start" class="img " src="resources/images/transparent.gif" alt="u28_start"/>
+      <img id="u28_end" class="img " src="resources/images/transparent.gif" alt="u28_end"/>
+      <img id="u28_line" class="img " src="images/资讯详情页/u28_line.png" alt="u28_line"/>
+    </div>
+
+    <!-- 主导航 (动态面板) -->
+    <div id="u29" class="ax_动态面板" data-label="主导航">
+      <div id="u29_state0" class="panel_state" data-label="State1">
+
+        <!-- Unnamed (形状) -->
+        <div id="u30" class="ax_形状">
+          <img id="u30_img" class="img " src="images/首页/u212.png"/>
+          <!-- Unnamed () -->
+          <div id="u31" class="text">
+            <p><span>KAB</span><span>概况</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u32" class="ax_形状">
+          <img id="u32_img" class="img " src="images/首页/u212.png"/>
+          <!-- Unnamed () -->
+          <div id="u33" class="text">
+            <p><span>首页</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u34" class="ax_形状">
+          <img id="u34_img" class="img " src="images/首页/u212.png"/>
+          <!-- Unnamed () -->
+          <div id="u35" class="text">
+            <p><span>KAB公告</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u36" class="ax_形状">
+          <img id="u36_img" class="img " src="images/首页/u212.png"/>
+          <!-- Unnamed () -->
+          <div id="u37" class="text">
+            <p><span>新闻展示</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u38" class="ax_形状">
+          <img id="u38_img" class="img " src="images/首页/u212.png"/>
+          <!-- Unnamed () -->
+          <div id="u39" class="text">
+            <p><span>KAB课程</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u40" class="ax_形状">
+          <img id="u40_img" class="img " src="images/首页/u212.png"/>
+          <!-- Unnamed () -->
+          <div id="u41" class="text">
+            <p><span>网上开班</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (水平线) -->
+        <div id="u42" class="ax_水平线">
+          <img id="u42_start" class="img " src="resources/images/transparent.gif" alt="u42_start"/>
+          <img id="u42_end" class="img " src="resources/images/transparent.gif" alt="u42_end"/>
+          <img id="u42_line" class="img " src="images/首页/u224_line.png" alt="u42_line"/>
+        </div>
+
+        <!-- Unnamed (形状) -->
+        <div id="u43" class="ax_形状">
+          <img id="u43_img" class="img " src="images/首页/u225.png"/>
+          <!-- Unnamed () -->
+          <div id="u44" class="text">
+            <p><span>创业资讯</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u45" class="ax_文本">
+      <img id="u45_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u46" class="text">
+        <p><span>&gt;&gt;</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u47" class="ax_文本">
+      <img id="u47_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u48" class="text">
+        <p><span>详细</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u49" class="ax_文本">
+      <img id="u49_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u50" class="text">
+        <p><span>新商业合伙人峰会举行</span><span>&nbsp; &nbsp; &nbsp; &nbsp; </span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u51" class="ax_文本">
+      <img id="u51_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u52" class="text">
+        <p><span>KAB教育网</span><span>&nbsp; &nbsp; </span><span>/ 2013-</span><span>1</span><span>2</span><span>-</span><span>01</span><span> 12:12:09</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (水平线) -->
+    <div id="u53" class="ax_水平线">
+      <img id="u53_start" class="img " src="resources/images/transparent.gif" alt="u53_start"/>
+      <img id="u53_end" class="img " src="resources/images/transparent.gif" alt="u53_end"/>
+      <img id="u53_line" class="img " src="images/资讯详情页/u53_line.png" alt="u53_line"/>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u54" class="ax_文本">
+      <img id="u54_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u55" class="text">
+        <p><span>本报讯 在美国好莱坞用红外线扫描蜘蛛侠的模型，下一分钟，在中国杭州的家中就能用3D打印机“拷贝”出一模一样的模型……这些不是科幻片中的情景，已经悄悄地在浙江人的日常生活中实现。12月28日，由浙江省商务厅、共青团浙江省委共同指导，浙江在线、浙江省电子商务促进会联合主办，浙江在线浙江电商网承办的“2013首届新商业合伙人峰会”上，10个用科技改变传统商贸及现代服务业的本土创新项目团队获得了2013年度优秀新商业合伙人团队称号。活动吸引了500多名省内外来自电商、互联网、媒体以及投资界的资深人士到场。</span></p><p><span>&nbsp;</span></p><p><span>　　峰会上围绕“大数据时代的新商业模式”易观国际资深分析师的主题演讲为传统商贸企业转型开拓了新的思路。著名投资人李治国、斯凯CEO宋涛以及十个优秀创新团队创始人现身说法，分享了团队合作在创业创新中的重要性。荣获优秀商业创新荣誉的团队中也不乏明星项目，如致力于传统企业电商转型的熙浪科技、用信息匹配解决打车难的“快的”等。</span></p><p><span>&nbsp;</span></p><p><span>&nbsp;</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (底部版权) -->
+
+    <!-- Unnamed (水平线) -->
+    <div id="u57" class="ax_水平线">
+      <img id="u57_start" class="img " src="resources/images/transparent.gif" alt="u57_start"/>
+      <img id="u57_end" class="img " src="resources/images/transparent.gif" alt="u57_end"/>
+      <img id="u57_line" class="img " src="images/首页/u228_line.png" alt="u57_line"/>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u58" class="ax_文本">
+      <img id="u58_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u59" class="text">
+        <p><span>Copyright</span><span>&nbsp; </span><span>版权所有：</span><span>北大青鸟</span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u60" class="ax_文本">
+      <img id="u60_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u61" class="text">
+        <p><span>首页</span><span>&nbsp; &nbsp; </span><span>| </span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u62" class="ax_文本">
+      <img id="u62_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u63" class="text">
+        <p><span>关于我们</span><span>&nbsp; &nbsp;&nbsp; </span><span> | </span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u64" class="ax_文本">
+      <img id="u64_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u65" class="text">
+        <p><span>版权声明</span><span>&nbsp; </span><span> | </span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u66" class="ax_文本">
+      <img id="u66_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u67" class="text">
+        <p><span>人才招聘</span><span>&nbsp; </span><span> | </span></p>
+      </div>
+    </div>
+
+    <!-- Unnamed (形状) -->
+    <div id="u68" class="ax_文本">
+      <img id="u68_img" class="img " src="resources/images/transparent.gif"/>
+      <!-- Unnamed () -->
+      <div id="u69" class="text">
+        <p><span>联系我们</span><span>&nbsp;</span></p>
+      </div>
+    </div>
+  </body>
+</html>
