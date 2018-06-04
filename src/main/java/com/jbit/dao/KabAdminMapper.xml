@@ -17,4 +17,5 @@
     from kab_admin
     where id = #{id,jdbcType=INTEGER}
   </select>
+  <select id="Login" resultType="KabAdmin"></select>
 </mapper>

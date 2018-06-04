@@ -4,4 +4,6 @@ import com.jbit.entity.KabAdmin;
 
 public interface KabAdminDao {
     KabAdmin selectByPrimaryKey(Integer id);
+    
+    KabAdmin Login(KabAdmin admin);
 }

@@ -14,7 +14,7 @@
 	http://www.springframework.org/schema/aop
 	http://www.springframework.org/schema/aop/spring-aop-2.5.xsd">
 	
-	<context:component-scan base-package="com.jbit.dao,com.jbit.service"></context:component-scan>
+	<context:component-scan base-package="com.jbit"></context:component-scan>
 	
 	<context:property-placeholder location="classpath:config.properties"/>
 	<bean id="dataSourceLocal" name="dataSource" class="com.mchange.v2.c3p0.ComboPooledDataSource">  
@@ -42,5 +42,19 @@
         <!-- 每60秒检查所有连接池中的空闲连接.Default:0 -->  
         <property name="idleConnectionTestPeriod" value="${jdbc.idleConnectionTestPeriod}"/>  
     </bean>  
-
+    
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+	    <property name="dataSource" ref="dataSource"></property>
+	    <property name="configLocation" value="classpath:mybatis-config.xml"></property>
+	</bean>
+	
+	<!-- 扫描Dao包 -->
+	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+	   <property name="sqlSessionFactoryBeanName" value="sqlSessionFactory"></property>
+	   <property name="basePackage" value="com.jbit.dao"></property>
+	</bean>
+	
+	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+	   <property name="dataSource" ref="dataSource"></property>
+	</bean>
 </beans>

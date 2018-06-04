@@ -7,6 +7,15 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 	   <package name="com.jbit.entity"/>
 	</typeAliases>
 	<mappers>
-		
+		<mapper resource="com/jbit/dao/KabAdminMapper.xml" />
+		<mapper resource="com/jbit/dao/KabAnnouncementMapper.xml" />
+		<mapper resource="com/jbit/dao/KabCategoryMapper.xml" />
+		<mapper resource="com/jbit/dao/KabClassmanageMapper.xml" />
+		<mapper resource="com/jbit/dao/KabCommentMapper.xml" />
+		<mapper resource="com/jbit/dao/KabMemberMapper.xml" />
+		<mapper resource="com/jbit/dao/KabNewsMapper.xml" />
+		<mapper resource="com/jbit/dao/KabProvinceMapper.xml" />
+		<mapper resource="com/jbit/dao/KabSchoolMapper.xml" />
+		<mapper resource="com/jbit/dao/KabStudentsMapper.xml" />
 	</mappers>
 </configuration>
